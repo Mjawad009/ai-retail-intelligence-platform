@@ -2,6 +2,9 @@
 
 A comprehensive end-to-end retail analytics system combining time-series forecasting, inventory risk modeling, and AI-powered insights.
 
+<img width="1869" height="872" alt="Screenshot_11-5-2026_125640_localhost" src="https://github.com/user-attachments/assets/4e9728b7-f468-4837-8649-7dc8423125fe" />
+
+
 ## Features
 
 ### 1. **Demand Forecasting**
